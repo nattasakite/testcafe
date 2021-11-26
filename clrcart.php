@@ -9,6 +9,6 @@
         echo mysqli_error($objCon);
     }
 
-    header("Location: welcome.html");
+    header("Location: index.php");
     exit;
 ?>
